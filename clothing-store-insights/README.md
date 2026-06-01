@@ -49,7 +49,7 @@ To ensure accurate reporting, the dataset underwent a rigorous cleaning and proc
 ---
 
 ## 🖥️ Dashboard Preview
-*(The interactive dashboard allows filtering by Month, Channel, and Order Status)*
+*(The interactive dashboard allows filtering by Month, Channel, and Category Status)*
 
 ![Clothing Store Dashboard](./assets/dashboard.png)
 
