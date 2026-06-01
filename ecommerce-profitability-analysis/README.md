@@ -50,7 +50,7 @@ Because the dataset was already clean and standardized, the technical focus of t
 
 ## 🖥️ Dashboard Preview
 *(The interactive dashboard allows filtering by Year, Region, and Segment Category)*
-![E-commerce Dashboard](.ecommerce-profitability-analysis\assets\e-commerce_dashboard.png)
+![E-commerce Dashboard](.ecommerce-profitability-analysis/assets/e-commerce_dashboard.png)
 
 ---
 
