@@ -49,7 +49,7 @@ To ensure accurate reporting and dynamic visualization, raw relational sheets we
 
 ## 🖥️ Dashboard Preview
 
-![Coffee Sales Dashboard](.assets/coffee_orders_dashboard.png)
+![Coffee Sales Dashboard](./assets/coffee_orders_dashboard.png)
 
 ---
 
