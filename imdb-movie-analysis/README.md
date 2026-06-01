@@ -1,7 +1,6 @@
 # 🎬 IMDb Top 250 Movies Analysis & Dashboard
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-Processing_%26_Visualization-blue?style=flat-square)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Processing_%26_Visualization-blue?style=for-the-badge)
 
 ## 📌 Executive Summary
 This project explores the **IMDb Top 250 Movies** dataset to analyze audience ratings, runtimes, and historical trends in cinema. The objective was to transform raw movie statistics into an interactive dashboard that visualizes how critically acclaimed films are distributed across different decades, maturity ratings, and score brackets. 

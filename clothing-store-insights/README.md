@@ -1,7 +1,6 @@
 # 📊 Clothing Store Annual Sales Analysis & Dashboard
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-Processing_%26_Visualization-blue?style=flat-square)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Processing_%26_Visualization-blue?style=for-the-badge)
 
 ## 📌 Executive Summary
 This project analyzes a clothing store’s 2022 sales performance using Microsoft Excel. The objective was to transform raw transactional data into a dynamic, interactive dashboard that provides actionable business insights. The analysis identifies key customer demographics, geographic sales distribution, and high-performing sales channels to drive future marketing strategies.

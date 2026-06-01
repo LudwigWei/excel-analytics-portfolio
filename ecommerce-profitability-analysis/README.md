@@ -1,7 +1,7 @@
 # 🛒 E-commerce Sales & Profitability Dashboard
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-Processing_%26_Visualization-blue?style=flat-square)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Processing_%26_Visualization-blue?style=for-the-badge)
 
 ## 📌 Executive Summary
 This project analyzes four years (2011–2014) of transactional data for a major e-commerce retailer using Microsoft Excel. Working with a pre-cleaned dataset of nearly 10,000 records, the objective was to extract immediate business value through advanced data processing and dynamic visualization. The resulting dashboard uncovers profitability drivers, geographical performance, and category-level trends to help stakeholders optimize discount strategies and focus on high-margin product lines.
