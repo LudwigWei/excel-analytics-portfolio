@@ -51,9 +51,9 @@ To ensure accurate reporting, the dataset underwent a rigorous cleaning and proc
 ## 🖥️ Dashboard Preview
 *(The interactive dashboard allows filtering by Month, Channel, and Order Status)*
 
-![Clothing Store Dashboard](./clothing-store-insights/assets/dashboard.png)
+![Clothing Store Dashboard](./assets/dashboard.png)
 
-![Clothing Store Dashboard With Slicers](./clothing-store-insights/assets/dashboard_with_slicers.png)
+![Clothing Store Dashboard With Slicers](./assets/dashboard_with_slicers.png)
 
 ---
 
